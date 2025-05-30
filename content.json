@@ -1,0 +1,25 @@
+{
+  "introTitle": "Welcome to Mark Makes Music TEST",
+  "introSubtitle": "An inspiring artist.",
+  "featuredTitle": "New Album Coming Soon",
+  "featuredText": "Experience the journey through sound and emotion as Mark brings his unique musical vision to life.",
+  "featuredImage": {},
+  "aboutText": "Placeholder text about Mark's musical journey and artistic vision.",
+  "aboutImage": {},
+  "musicText": "Placeholder text about Mark's latest musical releases and upcoming projects.",
+  "musicImage": {},
+  "email": "PLACEHOLDER@email.com",
+  "tiktok": "",
+  "facebook": "",
+  "instagram": "",
+  "spotify": "",
+  "footer": {
+    "email": "test@gmail.com",
+    "social": {
+      "tiktok": "https://tiktok.com",
+      "facebook": "https://tiktok.com",
+      "instagram": "https://tiktok.com",
+      "spotify": "https://tiktok.com"
+    }
+  }
+}
